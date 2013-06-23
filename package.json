@@ -1,0 +1,9 @@
+{
+  "name": "attachevent",
+  "description": "attachevent polyfill",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/jameskyburz/attachevent.git"
+  },
+  "main": "index.js"
+}
