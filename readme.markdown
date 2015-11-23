@@ -1,3 +1,5 @@
+# This repository is no longer maintained.
+
 # attachevent
 
 Polyfil for event handling when addEventListener isn't available
