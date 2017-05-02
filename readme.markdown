@@ -1,5 +1,7 @@
 # This repository is no longer maintained.
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/JamesKyburz/attachevent.svg)](https://greenkeeper.io/)
+
 # attachevent
 
 Polyfil for event handling when addEventListener isn't available
